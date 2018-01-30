@@ -110,3 +110,13 @@ Josh’s (final models):
 | 8 | train   | RandomForestClassifierGrid | scaled, PCA   | 1.000000 |
 | 9 | test    | RandomForestClassifierGrid | scaled, PCA   | 0.833182 |
 
+## Coded in Python, built with:
+
+- Jupyter Notebooks
+- AWS EC2 t2.micro
+- Psycopg2 (PostgreSQL)
+- Pandas
+- Scipy
+- Scikit-learn
+
+
