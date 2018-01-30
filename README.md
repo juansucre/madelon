@@ -34,11 +34,11 @@ The following naive models (no hyperparameter tuning) were used to get benchmark
 ### 3. Feature Selection/Extraction
 
 The following methods were used for feature extraction:
-Correlation Matrix analysis
-SelectKBest
-SelectFromModel
-RFE (Recursive Feature Selection)
-Mean R-squared
+- Correlation Matrix analysis
+- `SelectKBest`
+- `SelectFromModel`
+- RFE (Recursive Feature Selection)
+- Mean R-squared
 
 The features returned from the correlation matrix method and mean R-squared were selected as the 20 relevant features.
 
