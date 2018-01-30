@@ -26,10 +26,10 @@ Most conventional methods of EDA did not prove to be helpful considering the art
 ### 2. Benchmarking on Naive Models
 
 The following naive models (no hyperparameter tuning) were used to get benchmark results:
-LogisticRegression
-DecisionTree
-KNeighborsClassifier
-SVC
+- LogisticRegression
+- DecisionTree
+- KNeighborsClassifier
+- SVC
 
 ### 3. Feature Selection/Extraction
 
